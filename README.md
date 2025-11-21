@@ -86,6 +86,7 @@ python test_challenging_scenario.py
 ```
 
 This tests 30 flights on 5 pads, comparing greedy vs. OR-Tools performance.
+We see the or-tools performance is more optimal compared to the greedy as or-tools is better at fitting into tight schedules.
 
 ## Dependencies
 
